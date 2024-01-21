@@ -30,4 +30,15 @@ Username:-Nataraj
 Password:-Nataraj123
 
 
+Output:-
+![image](https://github.com/Nataraj2001/To_Do_list_Application--Django/assets/106070514/62c5f169-0c95-4bdd-b5e7-2a843f8963f9)
+
+![image](https://github.com/Nataraj2001/To_Do_list_Application--Django/assets/106070514/625c2e8c-d500-430c-b943-5392ff189a69)
+
+
+
+
+
+
+
 
